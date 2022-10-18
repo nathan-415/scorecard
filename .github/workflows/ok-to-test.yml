@@ -27,7 +27,7 @@ jobs:
     if: ${{ github.event.issue.pull_request }}
     steps:
     - name: Slash Command Dispatch
-      uses: peter-evans/slash-command-dispatch@fc430081ad51bb37d160fa3a3ee718c121e6b90d # v2.1.3
+      uses: peter-evans/slash-command-dispatch@a28ee6cd74d5200f99e247ebc7b365c03ae0ef3c # v2.1.3
       env:
         TOKEN: ${{ steps.generate_token.outputs.token }}
       with:
