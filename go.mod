@@ -27,13 +27,13 @@ require (
 	github.com/spf13/cobra v1.2.1
 	github.com/xeipuuv/gojsonschema v0.0.0-20180618132009-1d523034197f
 	go.opencensus.io v0.23.0
-	go.uber.org/zap v1.19.0
+	go.uber.org/zap v1.24.0
 	gocloud.dev v0.23.0
 	golang.org/x/tools v0.1.5
 	google.golang.org/genproto v0.0.0-20210821163610-241b8fcbd6c8
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/yaml.v2 v2.4.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 	mvdan.cc/sh/v3 v3.3.1
 )
 
@@ -180,8 +180,8 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.8.1 // indirect
 	github.com/ssgreg/nlreturn/v2 v2.1.0 // indirect
-	github.com/stretchr/objx v0.2.0 // indirect
-	github.com/stretchr/testify v1.7.0 // indirect
+	github.com/stretchr/objx v0.4.0 // indirect
+	github.com/stretchr/testify v1.8.0 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/tdakkota/asciicheck v0.0.0-20200416200610-e657995f937b // indirect
 	github.com/tetafro/godot v1.4.8 // indirect
